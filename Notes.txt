@@ -3,3 +3,6 @@ Data from here. https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-esta
 
 Notes:
 1) how to turn street address into lat & long:https://towardsdatascience.com/geocode-with-python-161ec1e62b89
+
+
+

@@ -1,0 +1,13 @@
+name: NJRealEstateMapping
+title: NJRealEstateMapping
+username:
+account: ryjamesj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8363750
+bundleId: 6867308
+url: https://ryjamesj.shinyapps.io/NJRealEstateMapping/
+when: 1676917453.50595
+lastSyncTime: 1676917453.50595
+asMultiple: FALSE
+asStatic: FALSE
