@@ -3,7 +3,7 @@
 ## Project Description
 This is a personal project of mine to develop and work on my own machine learning skills.  This project uses publicly available real estate data to build a regression model to predict home prices in certain areas.  The regression model was developed using python in a Jupyter Notebook environment.  The model is a simple linear regression built using sklearn & pandas.
 
-As a bonus, I also created an interactive web app for viewing and filtering locations of a subset of the real estate data.  This was done in an r shiny environment and hosted on shiny.io.  I used a google api and georeferenced the provided street address to convert its latitude and longitude coordinates.
+As a bonus, I also created an [interactive web app](https://ryjamesj.shinyapps.io/NJRealEstateMapping/) for viewing and filtering locations of a subset of the real estate data.  This was done in an r shiny environment and hosted on shiny.io plateform.  I used a google api service and georeferenced the provided street address to latitude and longitude coordinates.
 
 ### Project Goals
 - To view and explore data.
@@ -33,7 +33,7 @@ The project used the following software and environments...
 - [Python](https://www.python.org/) as the programming language for the ML development.
 - [Jupyter Notebook](https://jupyter.org/) as the python IDE.
 - [R](https://www.r-project.org/) as the programming language for the web app development.
-- [RStudio] as the R IDE.
+- [RStudio](https://posit.co/download/rstudio-desktop/) as the R IDE.
 - [shiny.io](https://www.shinyapps.io/) as the web app hosting platform.
 
 
