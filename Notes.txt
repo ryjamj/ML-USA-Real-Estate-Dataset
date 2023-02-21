@@ -1,8 +1,0 @@
-Links:
-Data from here. https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset?resource=download
-
-Notes:
-1) how to turn street address into lat & long:https://towardsdatascience.com/geocode-with-python-161ec1e62b89
-
-
-
